@@ -1,7 +1,7 @@
 <span id="readme-top"></span>
 **<sup>A</sup><sub>文</sub>**
-[![Language: en](https://img.shields.io/badge/English-gray)](README_en.md#readme-top)
 [![Language: ja](https://img.shields.io/badge/Japanese%20(日本語)-gray)](README.md#readme-top)
+[![Language: en](https://img.shields.io/badge/English-blue)](README_en.md#readme-top)
 [![Language: fez](https://img.shields.io/badge/Elnee%20(Ƣeznē'bix)-gray)](README_fez.md#readme-top)
 
 # [Xirdim](https://github.com/Xirdim)
