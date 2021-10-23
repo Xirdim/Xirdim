@@ -9,7 +9,7 @@
 Sav hal nacic **Xirdim** (*xirdiм*; [IPA](//en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[çirdim\]).
 - Twitter: [@xirdim](//twitter.com/xirdim)
 
-## xxx
+## Gucūqiмat
 - **Brxōdƣez, lanva?!**: Ƣeznē'bixix-prīvaūt koмyūniti (→ [Bixic-org](//github.com/Bixic-org))
-- **CL-KIITA** (Ƣaqē-Kaiqenūt Bixnē' Krwerex Iмфōм'asxat, dai Iмфōм'asan Texnē Gucūqiм) (→ [CL-KIITA](//github.com/CL-KIITA))
+- **CL-KIITA** (*ConLang* Krwerex Iмфōм'asxat, dai Iмфōм'as Texnē Aƣr) (→ [CL-KIITA](//github.com/CL-KIITA))
 - **Xa-Kalosbix**ix-prīvaūt koмyūniti (→ [KalosBix-Xakerras](//github.com/KalosBix-Xakerras))
