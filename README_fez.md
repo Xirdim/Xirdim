@@ -10,6 +10,6 @@ Sav hal nacic **Xirdim** (*xirdiм*; [IPA](//en.wikipedia.org/wiki/International
 - Twitter: [@xirdim](//twitter.com/xirdim)
 
 ## xxx
-- **Brxōdƣez, lanva?!**: Ƣeznē'bixix-(制作する)ūt (コミュニティ) (→ [Bixic-org](//github.com/Bixic-org))
-- **CL-KIITA** ((人工言語) (知識) Iмфōм(-学), dai Iмфōм'asan Texnē (事業体: Association)) (→ [CL-KIITA](//github.com/CL-KIITA))
-- **Xa-Kalosbix**ix-(制作する)ūt (コミュニティ) (→ [KalosBix-Xakerras](//github.com/KalosBix-Xakerras))
+- **Brxōdƣez, lanva?!**: Ƣeznē'bixix-prīvaūt koмyūniti (→ [Bixic-org](//github.com/Bixic-org))
+- **CL-KIITA** (Ƣaqē-Kaiqenūt Bixnē' Krwerex Iмфōм'asxat, dai Iмфōм'asan Texnē Gucūqiм) (→ [CL-KIITA](//github.com/CL-KIITA))
+- **Xa-Kalosbix**ix-prīvaūt koмyūniti (→ [KalosBix-Xakerras](//github.com/KalosBix-Xakerras))
