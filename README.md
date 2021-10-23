@@ -5,7 +5,7 @@
 [![Language: fez](https://img.shields.io/badge/オ゛ェｼﾞｭルニョェーッ語%20(Ƣeznē'bix)-gray)](README_fez.md#readme-top)
 
 # Xirdim
-**Xirdim**（ひるでぃむ; [IPA](//ja.wikipedia.org/wiki/国際音声記号): \[çirdim\]）と申す者です。
+**Xirdim**（*ひるでぃむ*; [IPA](//ja.wikipedia.org/wiki/国際音声記号): \[çirdim\]）と申す者です。
 - Twitter: [@xirdim](//twitter.com/xirdim)
 
 ## コミュニティ等
