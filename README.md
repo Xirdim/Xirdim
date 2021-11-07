@@ -6,7 +6,13 @@
 
 # [Xirdim](https://github.com/Xirdim)
 **Xirdim**（*ひるでぃむ*; [IPA](//ja.wikipedia.org/wiki/国際音声記号): \[çirdim\]）と申す者です。
+
+オ゛ェｼﾞｭルニョェーッ名: Xirdiм-Tшtāsalozotnic Шweчeфīrƣez Edalg
+
+## 各種アカウント
 - Twitter: [@xirdim](//twitter.com/xirdim)
+- Migdal: [Xirdim](//migdal.jp/Xirdim)
+- Migdal Conlang Wiki: [Xirdim](//migdal.miraheze.org/wiki/User:Xirdim)
 
 ## コミュニティ等
 - **Brxōdƣez, lanva?!**: オ゛ェｼﾞｭルニョェーッ語制作コミュニティ (→ [Bixic-org](//github.com/Bixic-org))
