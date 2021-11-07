@@ -7,9 +7,15 @@
 # [Xirdim](https://github.com/Xirdim)
 
 Sav hal nacic **Xirdim** (*xirdiм*; [IPA](//en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[çirdim\]).
-- Twitter: [@xirdim](//twitter.com/xirdim)
+
+hal Ƣeznē'bixuъe: Xirdiм-Tшtāsalozotnic Шweчeфīrƣez Edalg
+
+## Akauntat
+- Twitteruъe: [@xirdim](//twitter.com/xirdim)
+- Migdaluъe: [Xirdim](//migdal.jp/Xirdim)
+- Migdal Conlang Wikyuъe: [Xirdim](//migdal.miraheze.org/wiki/User:Xirdim)
 
 ## Gucūqiмat
 - **Brxōdƣez, lanva?!**: Ƣeznē'bixix-prīvaūt koмyūniti (→ [Bixic-org](//github.com/Bixic-org))
-- **CL-KIITA** (*ConLang* Krwerex Iмфōм'asxat, dai Iмфōм'as Texnē Aƣr) (→ [CL-KIITA](//github.com/CL-KIITA))
+- **CL-KIITA** (*ConLang* Krwerex Iмфōм'asxat, dai Iмфōм'as Texnē, Aƣr) (→ [CL-KIITA](//github.com/CL-KIITA))
 - **Xa-Kalosbix**ix-prīvaūt koмyūniti (→ [KalosBix-Xakerras](//github.com/KalosBix-Xakerras))
