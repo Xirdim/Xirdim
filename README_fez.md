@@ -16,6 +16,7 @@ hal Ƣeznē'bixuъe: Xirdiм-Tшtāsalozotnic Шweчeфīrƣez Edalg
 - Migdal Conlang Wikyuъe: [Xirdim](//migdal.miraheze.org/wiki/User:Xirdim)
 
 ## Gucūqiмat
-- **Brxōdƣez, lanva?!**: Ƣeznē'bixix-prīvaūt koмyūniti (→ [Bixic-org](//github.com/Bixic-org))
 - **CL-KIITA** (*ConLang* Krwerex Iмфōм'asxat, dai Iмфōм'as Texnē, Aƣr) (→ [CL-KIITA](//github.com/CL-KIITA))
+- **D-Lang**
+- **Brxōdƣez, lanva?!**: Ƣeznē'bixix-prīvaūt koмyūniti (→ [Bixic-org](//github.com/Bixic-org))
 - **Xa-Kalosbix**ix-prīvaūt koмyūniti (→ [KalosBix-Xakerras](//github.com/KalosBix-Xakerras))
