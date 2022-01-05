@@ -15,6 +15,7 @@
 - Migdal Conlang Wiki: [Xirdim](//migdal.miraheze.org/wiki/User:Xirdim)
 
 ## コミュニティ等
-- **Brxōdƣez, lanva?!**: オ゛ェｼﾞｭルニョェーッ語制作コミュニティ (→ [Bixic-org](//github.com/Bixic-org))
 - **CL-KIITA** (人工言語知識情報・情報技術事業体) (→ [CL-KIITA](//github.com/CL-KIITA))
+- **D-Lang**
+- **Brxōdƣez, lanva?!**: オ゛ェｼﾞｭルニョェーッ語制作コミュニティ (→ [Bixic-org](//github.com/Bixic-org))
 - **新カロス語**制作コミュニティ (→ [KalosBix-Xakerras](//github.com/KalosBix-Xakerras))
