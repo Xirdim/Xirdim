@@ -16,6 +16,7 @@ Elnee name: Xirdiм-Tшtāsalozotnic Шweчeфīrƣez Edalg
 - Migdal Conlang Wiki: [Xirdim](//migdal.miraheze.org/wiki/User:Xirdim)
 
 ## Communities
-- **Brxōdƣez, lanva?!**: Elnee language constructing community (→ [Bixic-org](//github.com/Bixic-org))
 - **CL-KIITA** (ConLang Knowledge Informatics and Information Technology Association) (→ [CL-KIITA](//github.com/CL-KIITA))
+- **D-Lang**
+- **Brxōdƣez, lanva?!**: Elnee language constructing community (→ [Bixic-org](//github.com/Bixic-org))
 - **Neo-Kalos language** constructing community (→ [KalosBix-Xakerras](//github.com/KalosBix-Xakerras))
