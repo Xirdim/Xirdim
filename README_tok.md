@@ -10,7 +10,7 @@ mi jan **Xirdim** (*Kisin*; [IPA](//wikipesija.org/wiki/nasin_sitelen_kalama_pi_
 
 nimi mi lon toki Ense: Xirdiм-Tшtāsalozotnic Шweчeфīrƣez Edalg
 
-## sijelo mi
+## sijelo
 - lon ilo Tuwita: [@xirdim](//twitter.com/xirdim)
 - lon lipu Mikutalu: [@xirdim](//migdal.jp/Xirdim)
 - lon lipu Mikutalu-Konlan-Wiki: [User:Xirdim](//migdal.miraheze.org/wiki/User:Xirdim)
