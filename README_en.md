@@ -3,7 +3,7 @@
 [![Language: ja](https://img.shields.io/badge/Japanese%20(日本語)-gray)](README.md#readme-top)
 [![Language: en](https://img.shields.io/badge/English-blue)](README_en.md#readme-top)
 [![Language: fez](https://img.shields.io/badge/Elnee%20(Ƣeznē'bix)-gray)](README_fez.md#readme-top)
-[![Language: tok](https://img.shields.io/badge/トキポナ%20(toki%20pona)-gray)](README_tok.md#readme-top)
+[![Language: tok](https://img.shields.io/badge/Toki%20Pona%20(toki%20pona)-gray)](README_tok.md#readme-top)
 
 # [Xirdim](https://github.com/Xirdim)
 
